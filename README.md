@@ -1,4 +1,7 @@
 # Livro de receitas
 
 ## Introdução do livro
-    Comprando os ingredientes:
+- Comprando os ingredientes:
+- Queijo
+- Presunto
+- Oregano
